@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sqliteprobe</string>
+    <string name="Entrada">Entrada</string>
+    <string name="button">Button</string>
+</resources>
